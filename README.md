@@ -5,8 +5,8 @@
 <h2 align="center">🚀 Passionate Developer / AI Enthusiast</h2>
 
 <div align="center">
-  <a href="https://github.com/ajayw">
-    <img src="https://komarev.com/ghpvc/?username=ajayw&label=Profile%20views&color=0e75b6&style=flat" alt="ajayw" />
+  <a href="https://github.com/ajayspace-bit">
+    <img src="https://komarev.com/ghpvc/?username=ajayspace-bit&label=Profile%20views&color=0e75b6&style=flat" alt="ajayspace-bit" />
   </a>
 </div>
 
@@ -54,12 +54,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayw&show_icons=true&theme=radical&hide_border=true" alt="Ajay's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayw&theme=radical&hide_border=true" alt="Ajay's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayspace-bit&show_icons=true&theme=radical&hide_border=true" alt="Ajay's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayspace-bit&theme=radical&hide_border=true" alt="Ajay's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayw&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayspace-bit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
