@@ -54,12 +54,12 @@ Welcome to my digital workspace! I am an AI enthusiast and software developer de
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayspace-bit&show_icons=true&theme=radical&hide_border=true" alt="Ajay's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ajayspace-bit&show_icons=true&theme=radical&hide_border=true" alt="Ajay's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayspace-bit&theme=radical&hide_border=true" alt="Ajay's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayspace-bit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajayspace-bit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
